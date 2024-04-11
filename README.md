@@ -31,6 +31,7 @@ iTrackWorkOut is a specialized time-tracking app developed exclusively with Swif
 To install iTrackWorkOut, clone the repository and follow these steps:
 
 git clone https://github.com/rwth-itrackworkout/itrackworkout.git
+
 cd itrackworkout
 
 Open the project in Xcode, build it, and run it on your iOS device or simulator.
